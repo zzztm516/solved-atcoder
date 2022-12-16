@@ -1,0 +1,7 @@
+initialize git hub repozitory
+
+1 create repozitory on git hub
+2 cd and init or git clone (maaybe git pull if repozitory already existed)
+3 git add
+4 git commit -m 'comment'
+5 git push -u origin main (need user name and private token)
